@@ -1,0 +1,22 @@
+.testimonial {
+  background-color: #1a0e22;
+  padding-top: 4rem;
+  color: white;
+  padding-bottom: 5rem;
+}
+h2 {
+  font-size: 3rem;
+}
+.tes-name {
+  display: flex;
+}
+.tes-des {
+  padding-top: 2rem;
+  padding-left: 1rem;
+}
+.tes {
+  background-color: #20132a;
+  border-radius: 1.5rem;
+  padding: 1rem 2rem;
+  width: 540px;
+}
